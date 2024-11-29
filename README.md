@@ -3,7 +3,7 @@
 This project predicts alcohol content in white wine samples using machine learning techniques. 
 
 ## Steps to Run
-1. Clone the repository: `git clone https://github.com/your-username/wine-quality-alcohol-prediction.git`
+1. Clone the repository: `git clone https://github.com/battigfernanda/WineQualityPrediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook or Python scripts for training and predictions.
 

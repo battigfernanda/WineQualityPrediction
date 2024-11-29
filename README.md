@@ -8,3 +8,7 @@ The model's performance was validated using unseen synthetic data, where it demo
 Feature importance analysis was also conducted to provide insights into the key physicochemical factors influencing alcohol content in wine. 
 The final model and pipeline were saved for future deployment, enabling efficient and accurate predictions on new wine data. 
 This study highlights the potential of machine learning in enhancing predictive accuracy for practical applications in the wine industry.
+
+Please review video below for a detailed overview.
+
+https://youtu.be/5kWPTVOD2lk

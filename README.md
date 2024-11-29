@@ -5,7 +5,8 @@ This project predicts alcohol content in white wine samples using machine learni
 ## Steps to Run
 1. Clone the repository: `git clone https://github.com/battigfernanda/WineQualityPrediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook or Python scripts for training and predictions.
+3. Run the Jupyter Notebook or Python scripts for training and predictions. (Note - You need to use Python 3.8–3.10 for PyCaret compatibility.)
+
 
 ## License
 MIT License
